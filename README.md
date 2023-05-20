@@ -1,6 +1,8 @@
 # Awesome-Personal-Web
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A list of Personal Web(site) projects / collectives. For when you feel like exploring a less social media controled internet.
+
 | Name           | How To Join?        | Features      | Creators       |
 | -------------- | ------------------- |-------------- | ------------- |
 | [Bear Blog](https://bearblog.dev/discover/) | You have to create your site via [bearblog.dev](https://bearblog.dev/) | [Search](https://bearblog.dev/search/) | [Herman Martinus](https://herman.bearblog.dev/) |
