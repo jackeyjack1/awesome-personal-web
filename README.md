@@ -60,7 +60,3 @@ A list of Personal Web(site) projects / collectives. For when you feel like expl
 ## Authors
 
 The list of authors can be found in [AUTHORS.md](AUTHORS.md).
-
-## License
-
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
