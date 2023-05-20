@@ -56,3 +56,7 @@ A list of Personal Web(site) projects / collectives. For when you feel like expl
 | [250kb Club](https://250kb.club/) | [sourcehut](https://todo.sr.ht/~koehr/the-250kb-club/) or [Github](https://github.com/nkoehring/250kb-club/) | X | [Norman Köhring](https://koehr.in/) |
 | [10 KB Club](https://10kbclub.com/) | [Github](https://github.com/susam/10kbclub) | X | [Susam Pal](https://susam.net/) |
 | [1kB Club](https://1kb.club/) | [sourcehut](https://1kb.club/submit) | X | [Bradley Taunt](https://bt.ht/) |
+
+## Authors
+
+The list of authors can be found in [AUTHORS.md](AUTHORS.md).
